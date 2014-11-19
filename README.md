@@ -59,3 +59,8 @@ There are 52 exercises in total and the codes have been adapted for Python3.
  50. Exercise 50: You First Website
  51. Exercise 51: Getting Input from a Browser
  52. Exercise 52: The Start of Your Web Game
+
+ The project is divided into several releases to the repository each completing 
+ several number of exercises:
+
+  1. 0.1: exercise 1 to 3
