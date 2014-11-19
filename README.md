@@ -9,7 +9,7 @@ There are 52 exercises in total and the codes have been adapted for Python3.
 
  1. Exercise 1: A Good First Program (*completed*)
  2. Exercise 2: Comments and Pound Characters
- 3. Exercise 3: Numbers and Math
+ 3. Exercise 3: Numbers and Math (*completed*)
  4. Exercise 4: Variables and Names
  5. Exercise 5: More Variables and Printing
  6. Exercise 6: Strings and Text
